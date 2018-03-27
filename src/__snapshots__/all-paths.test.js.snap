@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`complex object 1`] = `
+Array [
+  Array [
+    "foo",
+  ],
+  Array [
+    "foo",
+    "bar",
+  ],
+  Array [
+    "list",
+  ],
+  Array [
+    "list",
+    0,
+  ],
+  Array [
+    "list",
+    1,
+  ],
+  Array [
+    "list",
+    2,
+  ],
+]
+`;
+
+exports[`plain object 1`] = `
+Array [
+  Array [
+    "foo",
+  ],
+  Array [
+    "foo",
+    "bar",
+  ],
+]
+`;
