@@ -1,5 +1,5 @@
 {
-  "name": "all-paths",
+  "name": "@bahmutov/all-paths",
   "description": "Given an object returns list of all possible paths to its properties",
   "version": "0.0.0-development",
   "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",

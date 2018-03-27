@@ -1,4 +1,4 @@
-# all-paths
+# @bahmutov/all-paths
 
 > Given an object returns list of all possible paths to its properties
 
@@ -16,13 +16,13 @@ It is like `Object.keys` but for nested properties too.
 Requires [Node](https://nodejs.org/en/) version 6 or above.
 
 ```sh
-npm install --save all-paths
+npm install --save @bahmutov/all-paths
 ```
 
 ## Use
 
 ```js
-const allPaths = require('all-paths')
+const allPaths = require('@bahmutov/all-paths')
 const o = {
   foo: {
     bar: 42
