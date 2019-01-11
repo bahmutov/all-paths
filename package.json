@@ -76,7 +76,7 @@
     "prettier-standard": "8.0.1",
     "standard": "11.0.1",
     "semantic-release": "15.13.3",
-    "travis-deploy-once": "4.4.1"
+    "travis-deploy-once": "5.0.11"
   },
   "dependencies": {
     "lodash.isplainobject": "4.0.6",
